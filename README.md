@@ -17,3 +17,5 @@ OUTPUT:
 
 
 RESULT: 
+
+Basic prompts provide better quality, accuracy, and depth compared to naïve prompts. Therefore, using clear and structured prompts is recommended for better AI outputs.
