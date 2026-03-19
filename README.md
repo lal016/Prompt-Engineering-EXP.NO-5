@@ -13,4 +13,7 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 
 OUTPUT:
 
+[EX 05.pdf](https://github.com/user-attachments/files/26109966/EX.05.pdf)
+
+
 RESULT: 
